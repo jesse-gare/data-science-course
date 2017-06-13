@@ -11,6 +11,7 @@ repos = [
     "https://github.com/jakevdp/PythonDataScienceHandbook",
     "https://github.com/pzwang/bokeh-dashboard-webinar",
     "https://github.com/omartinsky/QuantAndFinancial",
+    "https://github.com/QuuxZebula/quanty-python",
     "https://github.com/martin-gorner/tensorflow-mnist-tutorial",
 ]
 
