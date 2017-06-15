@@ -1,0 +1,627 @@
+{
+    "query": {
+        "queryContext": {
+            "curations": [
+                "ARTICLES"
+            ]
+        },
+        "queryString": "banks",
+        "resultContext": {
+            "contextual": false,
+            "highlight": false,
+            "maxResults": 100,
+            "offset": 0,
+            "suppressDefaultSort": false
+        }
+    },
+    "results": [
+        {
+            "curations": [
+                "ARTICLES"
+            ],
+            "indexCount": 210900,
+            "results": [
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/116c5182-51bf-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "116c5182-51bf-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/f346c142-5169-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "f346c142-5169-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/fcc25e7e-51bf-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "fcc25e7e-51bf-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/34ef005e-51b6-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "34ef005e-51b6-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/6d60dc4e-51ae-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "6d60dc4e-51ae-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/68ee9bac-5180-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "68ee9bac-5180-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/3b6406aa-513e-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "3b6406aa-513e-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/19078a18-5144-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "19078a18-5144-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/a4379df6-5114-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "a4379df6-5114-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/05510fe8-5127-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "05510fe8-5127-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/efe7b136-4c6a-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "efe7b136-4c6a-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/005ad9d0-50f3-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "005ad9d0-50f3-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/aed7fe60-5158-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "aed7fe60-5158-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/31e5cad8-4d32-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "31e5cad8-4d32-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/4fea86a0-4d22-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "4fea86a0-4d22-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/0c3f310a-4d2a-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "0c3f310a-4d2a-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/fa6ae2e2-50e1-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "fa6ae2e2-50e1-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/2d9e07b0-505c-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "2d9e07b0-505c-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/7e6f7954-50e7-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "7e6f7954-50e7-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/1a02ba2c-50f5-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "1a02ba2c-50f5-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/bb1a9658-4517-11e7-8519-9f94ee97d996",
+                    "aspectSet": "article",
+                    "id": "bb1a9658-4517-11e7-8519-9f94ee97d996",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/e4b6e4ae-50a1-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "e4b6e4ae-50a1-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/1fba9b68-5115-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "1fba9b68-5115-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/ad34bde6-5121-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "ad34bde6-5121-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/06786492-5114-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "06786492-5114-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/7616ad90-5056-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "7616ad90-5056-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/b7e5c978-510e-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "b7e5c978-510e-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/bc3ec420-5055-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "bc3ec420-5055-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/6214a7e0-510d-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "6214a7e0-510d-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/1b3ea0ce-50e4-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "1b3ea0ce-50e4-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/440e212a-f9df-11e6-bd4e-68d53499ed71",
+                    "aspectSet": "article",
+                    "id": "440e212a-f9df-11e6-bd4e-68d53499ed71",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/3d2b29fa-50df-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "3d2b29fa-50df-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/35d09696-5039-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "35d09696-5039-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/1b83fb3a-5060-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "1b83fb3a-5060-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/bc523b96-50c7-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "bc523b96-50c7-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/d00c6220-4f4f-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "d00c6220-4f4f-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/619591a6-4f5c-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "619591a6-4f5c-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/6d55c196-5047-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "6d55c196-5047-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/28f19ba0-5084-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "28f19ba0-5084-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/afedcb46-5021-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "afedcb46-5021-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/7f3c72b8-4f5e-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "7f3c72b8-4f5e-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/c1c5a7b8-502a-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "c1c5a7b8-502a-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/c8d67ef4-503b-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "c8d67ef4-503b-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/8713c2fe-5056-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "8713c2fe-5056-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/572925e4-5019-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "572925e4-5019-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/37bae3b8-504c-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "37bae3b8-504c-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/95907af4-5040-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "95907af4-5040-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/acb84c34-5045-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "acb84c34-5045-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/c54bdac4-5025-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "c54bdac4-5025-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/07339a4c-5032-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "07339a4c-5032-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/e5cbacb6-5025-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "e5cbacb6-5025-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/0f534aa4-4549-11e7-8519-9f94ee97d996",
+                    "aspectSet": "article",
+                    "id": "0f534aa4-4549-11e7-8519-9f94ee97d996",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/3ad08c46-4fcb-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "3ad08c46-4fcb-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/cc917206-4fc8-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "cc917206-4fc8-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/9c46547e-5034-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "9c46547e-5034-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/49f373e0-501c-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "49f373e0-501c-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/d2d26f6e-4f7b-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "d2d26f6e-4f7b-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/99d8402a-503a-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "99d8402a-503a-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/03048068-5031-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "03048068-5031-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/18dcf566-5025-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "18dcf566-5025-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/fa65e636-5026-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "fa65e636-5026-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/9948b070-4f7e-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "9948b070-4f7e-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/d0937010-454c-11e7-8519-9f94ee97d996",
+                    "aspectSet": "article",
+                    "id": "d0937010-454c-11e7-8519-9f94ee97d996",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/1a6ab5d2-4f7e-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "1a6ab5d2-4f7e-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/82727bd0-4f5e-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "82727bd0-4f5e-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/f415a7aa-4f70-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "f415a7aa-4f70-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/165aa9dc-4acb-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "165aa9dc-4acb-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/8450df5e-4fff-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "8450df5e-4fff-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/5dfb349e-4b81-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "5dfb349e-4b81-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/4d0dcf10-4f65-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "4d0dcf10-4f65-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/cabfe9d2-4c1f-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "cabfe9d2-4c1f-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/1c425d1a-4f65-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "1c425d1a-4f65-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/01f2fe36-4f62-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "01f2fe36-4f62-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/60cb441a-4f83-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "60cb441a-4f83-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/40583184-4f74-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "40583184-4f74-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/f3f1fa2c-4f42-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "f3f1fa2c-4f42-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/ccce5678-4f35-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "ccce5678-4f35-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/969f8f2a-4f50-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "969f8f2a-4f50-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/1bd113ea-4f5a-11e7-a1f2-db19572361bb",
+                    "aspectSet": "article",
+                    "id": "1bd113ea-4f5a-11e7-a1f2-db19572361bb",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/fcf7e3a4-4f40-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "fcf7e3a4-4f40-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/3db446e8-4cf9-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "3db446e8-4cf9-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/0c3a782e-4f0d-11e7-bfb8-997009366969",
+                    "aspectSet": "article",
+                    "id": "0c3a782e-4f0d-11e7-bfb8-997009366969",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/5927fa2c-4c73-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "5927fa2c-4c73-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/93193466-4d05-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "93193466-4d05-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/558f320e-4b6f-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "558f320e-4b6f-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/93a42c56-4d2d-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "93a42c56-4d2d-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/4d357d36-4d0c-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "4d357d36-4d0c-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/57e3b9a8-4d36-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "57e3b9a8-4d36-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/d6f609da-4cf0-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "d6f609da-4cf0-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/a1526e2e-4d43-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "a1526e2e-4d43-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/5271e7f8-4b86-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "5271e7f8-4b86-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/6133be94-4783-11e7-8519-9f94ee97d996",
+                    "aspectSet": "article",
+                    "id": "6133be94-4783-11e7-8519-9f94ee97d996",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/b9ce51c8-4cfa-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "b9ce51c8-4cfa-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/92b2dbc6-4c42-11e7-919a-1e14ce4af89b",
+                    "aspectSet": "article",
+                    "id": "92b2dbc6-4c42-11e7-919a-1e14ce4af89b",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/f60dc5f0-4d14-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "f60dc5f0-4d14-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/a608ee4a-4d1e-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "a608ee4a-4d1e-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/c15d7bc2-4d1c-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "c15d7bc2-4d1c-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/bc6a8b4c-4c35-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "bc6a8b4c-4c35-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/8bb52a6a-4c40-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "8bb52a6a-4c40-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                },
+                {
+                    "apiUrl": "http://api.ft.com/content/items/v1/78411a6c-4d0c-11e7-a3f4-c742b9791d43",
+                    "aspectSet": "article",
+                    "id": "78411a6c-4d0c-11e7-a3f4-c742b9791d43",
+                    "modelVersion": "1"
+                }
+            ]
+        }
+    ]
+}

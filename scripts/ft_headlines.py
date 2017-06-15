@@ -4,7 +4,7 @@ import requests
 import json
 import re
 
-API_KEY = 'mu88bd25bwe4e3z5d8b73byy'
+API_KEY = 'yy75cvtvur7a2ppz6nc9apqp'
 AUTH= '/?apiKey=' + API_KEY
 BASE_URL = "http://api.ft.com"
 
@@ -22,6 +22,9 @@ def search(terms):
 
     response = requests.post(url, json=data)
     data = response.json()
+
+    with open("headline_search.json", "w") as out_file:
+        out_file.write(json.dumps(data, sort_keys=True, indent=4))
 
     return data
 
@@ -41,7 +44,7 @@ def print_headlines(searched):
         title_pattern = r'article-title(?:--redesign)?\">(.*?)<'
         headline = re.findall(title_pattern, data)
         if headline:
-            print(headline[0]) 
+            print(headline[0])
 
 if __name__ == "__main__":
 
